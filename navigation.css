@@ -1,0 +1,15 @@
+*{
+			margin: 0%;
+		}
+		.navbar{
+			background-color: green;
+			padding: 0.8%;
+			text-align: center;
+		}
+		.navbar a{
+			color: yellow;
+			text-decoration: none;
+			margin-right: 10%;
+			font-size: 25px;
+			font-style: italic;
+		}
